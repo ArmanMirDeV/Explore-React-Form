@@ -1,5 +1,6 @@
 
 import './App.css'
+import SimpleForm from './Components/SimpleForm/SimpleForm'
 
 function App() {
 
@@ -7,7 +8,8 @@ function App() {
   return (
     <>
       
-      <h1>Vite + React</h1>
+      <h1>Explore React Form</h1>
+      <SimpleForm></SimpleForm>
       
     </>
   )
